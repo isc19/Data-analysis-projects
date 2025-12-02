@@ -1,1 +1,1 @@
-Welcome to my Data Analysis Projects, a collection of fun, insightful, and sometimes quirky data explorations! This repo is my personal playground for diving into data, uncovering patterns, and sharpening my analytical skills to build an awesome portfolio! 
+Welcome to my Data Analysis Projects, a collection of fun, insightful, and sometimes quirky data explorations! This repo is my personal playground for diving into data to sharpen my analytical skills and build a portfolio I'm proud of! 
